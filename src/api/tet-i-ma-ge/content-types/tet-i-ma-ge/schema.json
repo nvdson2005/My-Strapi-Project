@@ -1,0 +1,25 @@
+{
+  "kind": "singleType",
+  "collectionName": "tet_i_ma_ges",
+  "info": {
+    "singularName": "tet-i-ma-ge",
+    "pluralName": "tet-i-ma-ges",
+    "displayName": "Tét I ma gè"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "AnhDep": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    }
+  }
+}
